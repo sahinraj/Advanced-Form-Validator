@@ -11,7 +11,7 @@ import SwiftUI
 struct Advanced_Form_ValidatorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AdvancedFormView()
         }
     }
 }
