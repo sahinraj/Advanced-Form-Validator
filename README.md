@@ -143,7 +143,7 @@ struct AdvancedFormView: View {
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/advanced-form-validator.git
+   git clone https://github.com/sahinraj/Advanced-Form-Validator.git
    cd advanced-form-validator
    ```
 
